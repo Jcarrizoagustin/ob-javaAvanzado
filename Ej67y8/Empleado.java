@@ -1,3 +1,4 @@
+package Ej67y8;
 public class Empleado {
   private String nombre;
   private String dni;
@@ -7,5 +8,5 @@ public class Empleado {
     this.dni = dni;
   }
 
-  
+
 }

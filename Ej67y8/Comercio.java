@@ -1,3 +1,4 @@
+package Ej67y8;
 
 public class Comercio{
   private static Comercio comercio;
